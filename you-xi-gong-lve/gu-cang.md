@@ -10,6 +10,6 @@
 
 ![学习小麦的地精位置](../.gitbook/assets/61e157cfb16d5769995fbfac9a57460.png)
 
-贿赂地精的食物：需要60个胡萝卜和30SFL来制作
+**贿赂地精的食物：需要60个胡萝卜和30SFL来制作**
 
-![](../.gitbook/assets/e5e88f9365f16781f05ca97e16d10fd.png)
+![](<../.gitbook/assets/e5e88f9365f16781f05ca97e16d10fd (1).png>)
