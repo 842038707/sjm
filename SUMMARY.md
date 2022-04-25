@@ -12,7 +12,7 @@
   * [谷仓](you-xi-gong-lve/gu-cang.md)
   * [采矿](you-xi-gong-lve/cai-kuang.md)
   * [其它玩法（官方暂未公布）](you-xi-gong-lve/qi-ta-wan-fa-guan-fang-zan-wei-gong-bu.md)
-* [稀有NFT](xi-you-nft/README.md)
+* [🍭 稀有NFT](xi-you-nft/README.md)
   * [第一季](xi-you-nft/di-yi-ji.md)
   * [第二季](xi-you-nft/di-er-ji.md)
   * [第三季（官方暂未更新）](xi-you-nft/di-san-ji-guan-fang-zan-wei-geng-xin.md)
