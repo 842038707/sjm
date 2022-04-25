@@ -23,7 +23,7 @@
   * [稀有NFT](wu-pin-he-cheng-cai-liao/xi-you-nft.md)
 * [🧑🎓 职业技能](zhi-ye-ji-neng.md)
 * [🪙 经济模型](jing-ji-mo-xing.md)
-* [🤳 关于普通用户和大户建议](guan-yu-pu-tong-yong-hu-he-da-hu-jian-yi.md)
+* [🤳 普通用户和大户玩法建议](pu-tong-yong-hu-he-da-hu-wan-fa-jian-yi.md)
 * [❓ 常遇问题看这里](chang-yu-wen-ti-kan-zhe-li/README.md)
   * [自然资源获得经验](chang-yu-wen-ti-kan-zhe-li/zi-ran-zi-yuan-huo-de-jing-yan.md)
   * [怎么同步？](chang-yu-wen-ti-kan-zhe-li/zen-mo-tong-bu.md)
