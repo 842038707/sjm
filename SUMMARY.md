@@ -31,3 +31,4 @@
   * [怎么从opensea发送物品到农场](chang-yu-wen-ti-kan-zhe-li/zen-mo-cong-opensea-fa-song-wu-pin-dao-nong-chang.md)
   * [许愿井是什么？](chang-yu-wen-ti-kan-zhe-li/xu-yuan-jing-shi-shi-mo.md)
   * [地图上的彩蛋是什么？](chang-yu-wen-ti-kan-zhe-li/di-tu-shang-de-cai-dan-shi-shi-mo.md)
+  * [不同颜色的土地区别？](chang-yu-wen-ti-kan-zhe-li/bu-tong-yan-se-de-tu-di-qu-bie.md)
