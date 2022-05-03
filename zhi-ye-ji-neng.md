@@ -18,9 +18,9 @@ description: 目前只有两个职业：农业和采集（以后会更新更多�
 
 **采集技能**
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 **升级所需要的经验**
 
