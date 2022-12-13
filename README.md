@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/IMG_0328.JPG
+coverY: 0
+---
+
 # 🌻 向日葵介绍
 
 官网：[https://sunflower-land.com/](https://sunflower-land.com)
